@@ -56,9 +56,7 @@ figures/               Figures 1-4 (300 dpi PNG)
 
 Settings: XFOIL 6.99, Mach 0, Ncrit = 9, 160 panels, 100 iterations, angle of attack from -5° to 15° in 0.5° steps (-5° to 20° for validation).
 
-## Use of AI
 
-This project was completed with help from Claude, an AI assistant made by Anthropic. Claude wrote the two Python scripts and drafted parts of the report (Methodology, Prior work, Results, Abstract, and parts of the Conclusion). Aarnav installed the software, ran all simulations, read the wind-tunnel data, interpreted the hypotheses, and wrote the Introduction, fundamentals, Data Analysis, Discussion, and Limitations. A full contribution table is in Appendix E of the report.
 
 ## How to cite
 

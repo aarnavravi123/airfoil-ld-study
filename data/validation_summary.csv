@@ -1,0 +1,2 @@
+airfoil,Re,validation,max_L_D,alpha_at_max_L_D,CL_at_max,CD_at_max,CL_max_in_sweep,points_converged,points_missing
+NACA 2412,3100000,True,119.9,4.5,0.7374,0.00615,1.7703,51,0

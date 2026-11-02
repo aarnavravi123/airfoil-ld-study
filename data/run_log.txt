@@ -1,0 +1,24 @@
+Run started 2026-11-02 13:00
+Settings: Mach=0.0, Ncrit=9, panels=160, iter=100, alpha -5.0..15.0 step 0.5
+
+NACA 0012, Re = 100,000: 41/41 converged
+NACA 0012, Re = 200,000: 40/41 converged; missing alphas [6.5]
+NACA 0012, Re = 500,000: 39/41 converged; missing alphas [-4.5, 4.5]
+NACA 0012, Re = 1,000,000: 41/41 converged
+NACA 2412, Re = 100,000: 40/41 converged; missing alphas [15.0]
+NACA 2412, Re = 200,000: 40/41 converged; missing alphas [-2.5]
+NACA 2412, Re = 500,000: 41/41 converged
+NACA 2412, Re = 1,000,000: 39/41 converged; missing alphas [-1.0, 7.5]
+NACA 4412, Re = 100,000: 41/41 converged
+NACA 4412, Re = 200,000: 39/41 converged; missing alphas [-5.0, 11.0]
+NACA 4412, Re = 500,000: 41/41 converged
+NACA 4412, Re = 1,000,000: 40/41 converged; missing alphas [-1.5]
+NACA 0015, Re = 100,000: 41/41 converged
+NACA 0015, Re = 200,000: 41/41 converged
+NACA 0015, Re = 500,000: 40/41 converged; missing alphas [7.0]
+NACA 0015, Re = 1,000,000: 38/41 converged; missing alphas [-2.5, 2.5, 7.0]
+NACA 0018, Re = 100,000: 41/41 converged
+NACA 0018, Re = 200,000: 41/41 converged
+NACA 0018, Re = 500,000: 41/41 converged
+NACA 0018, Re = 1,000,000: 39/41 converged; missing alphas [-4.5, 4.5]
+NACA 2412, Re = 3,100,000  [validation]: 41/41 converged

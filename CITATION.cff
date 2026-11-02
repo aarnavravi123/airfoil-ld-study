@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Effects of Airfoil Geometry on Lift-to-Drag Performance"
+type: dataset
+authors:
+  - family-names: "Ravi"
+    given-names: "Aarnav"
+version: "1.0.0"
+date-released: "2026-11-02"
+license: MIT
+keywords:
+  - aerodynamics
+  - airfoil
+  - XFOIL
+  - lift-to-drag ratio
+  - NACA
+  - Reynolds number
+abstract: >-
+  XFOIL study of how camber and thickness affect the maximum lift-to-drag
+  ratio of five NACA 4-digit airfoils (0012, 2412, 4412, 0015, 0018) at
+  Reynolds numbers from 100,000 to 1,000,000, validated against NACA
+  Report 824 wind-tunnel data.

@@ -2,6 +2,8 @@
 
 An independent aerodynamics study by **Aarnav Ravi** (2026).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23895385.svg)](https://doi.org/10.5281/zenodo.23895385)
+
 This project uses [XFOIL](https://web.mit.edu/drela/Public/web/xfoil/) to test how **camber** and **thickness** affect the maximum lift-to-drag ratio, (L/D)max, of five NACA 4-digit airfoils at Reynolds numbers from 100,000 to 1,000,000. Results were checked against wind-tunnel data from NACA Report 824.
 
 The full report is in [`paper/airfoil_LD_report.pdf`](paper/airfoil_LD_report.pdf).
